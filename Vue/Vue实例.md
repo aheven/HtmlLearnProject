@@ -73,4 +73,4 @@ var vm = new Vue({
 
 Vue 生命周期图示：
 
-![Vue生命周期图示](C:\Users\Administrator\Documents\HtmlLearnProject\Vue\pic\lifecycle.png)
+![Vue生命周期图示](https://github.com/aheven/HtmlLearnProject/blob/main/Vue/pic/lifecycle.png)
